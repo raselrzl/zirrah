@@ -110,78 +110,78 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with  ZIRRAH was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.  ZIRRAH's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand,  ZIRRAH is the ideal partner.",
+      "Working with ZIRRAH was a fantastic experience. Their professionalism, responsiveness, and commitment to achieving top-tier results were evident throughout the process. ZIRRAH’s passion for every aspect of development truly makes them stand out. If you want to enhance your website and brand, ZIRRAH is the perfect choice.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with  ZIRRAH was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.  ZIRRAH's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand,  ZIRRAH is the ideal partner.",
+      "Partnering with ZIRRAH was a joy. Their professionalism, quick communication, and unwavering dedication to excellence were clear from start to finish. ZIRRAH’s enthusiasm for development is truly exceptional. If you’re looking to take your website and brand to the next level, ZIRRAH is your ideal partner.",
     name: "Michael Johnson",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with  ZIRRAH was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.  ZIRRAH's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand,  ZIRRAH is the ideal partner.",
-    name: "Michael Johnson",
+      "Engaging with ZIRRAH was an absolute pleasure. Their professional approach, timely responses, and commitment to high-quality results were consistently demonstrated. ZIRRAH’s passion for development shines through in every detail. If you’re aiming to upgrade your website and brand, ZIRRAH is the partner you need.",
+    name: "Jonas Wieselgren",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with  ZIRRAH was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.  ZIRRAH's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand,  ZIRRAH is the ideal partner.",
-    name: "Michael Johnson",
+      "Collaborating with ZIRRAH was a remarkable experience. Their professionalism, prompt communication, and dedication to delivering exceptional outcomes were apparent throughout our project. ZIRRAH’s enthusiasm for development is evident in everything they do. If you’re seeking to elevate your website and brand, ZIRRAH is the right partner.",
+    name: "Taha Al Gilani",
     title: "Director of AlphaStream Technologies",
   },
   {
     quote:
-      "Collaborating with  ZIRRAH was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project.  ZIRRAH's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand,  ZIRRAH is the ideal partner.",
-    name: "Michael Johnson",
+      "Teaming up with ZIRRAH was a delight. Their professionalism, quick responses, and dedication to excellence were apparent at every stage. ZIRRAH’s passion for development is unmistakable. If you’re looking to enhance your website and brand, ZIRRAH is the perfect partner.",
+    name: "Cesur kasirga",
     title: "Director of AlphaStream Technologies",
   },
 ];
 
 export const companies = [
-  {
+  /*  {
     id: 1,
     name: "cloudinary",
     img: "/re.svg",
     nameImg: "/cloudName.svg",
-  },
+  }, */
   {
     id: 2,
     name: "appwrite",
     img: "/app.svg",
-    nameImg: "/appName.svg",
+    /* nameImg: "/appName.svg", */
   },
   {
     id: 3,
     name: "HOSTINGER",
     img: "/host.svg",
-    nameImg: "/hostName.svg",
+    /* nameImg: "/hostName.svg", */
   },
   {
     id: 4,
     name: "tail",
     img: "/tail.svg",
-    nameImg: "/streamName.svg",
+    /* nameImg: "/streamName.svg", */
   },
-  {
+  /* {
     id: 5,
     name: "docker.",
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
-  },
+  }, */
   {
     id: 6,
     name: "TS.",
     img: "/ts.svg",
-    nameImg: "/dockerName.svg",
+    /* nameImg: "/dockerName.svg", */
   },
   {
     id: 7,
     name: "MONGODB",
     img: "/mongodb.svg",
-    nameImg: "/dockerName.svg",
+    /* nameImg: "/dockerName.svg", */
   },
   {
     id: 8,
