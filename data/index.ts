@@ -75,35 +75,35 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "Culinary Delights Online",
+    des: "Explore a restaurant website that brings the essence of fine dining to the digital world. From mouth-watering menus to seamless reservations, experience a fusion of taste and technology.",
+    img: "/jays.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongodb.svg", "/fm.svg"],
+    link: "/https://jays-977f4c9b68b3.herokuapp.com/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    title: "Healthcare Connection",
+    des: "Streamline your healthcare experience with our doctor appointment application. Effortlessly book, manage, and track your medical appointments, ensuring you’re always connected to the care you need.",
+    img: "/appointment.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/app.svg", "/fm.svg"],
+    link: "/https://jays-977f4c9b68b3.herokuapp.com/",
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "Smart Banking, Simplified",
+    des: "Experience the future of finance with our intuitive banking app. Manage your accounts, track expenses, and make secure transactions—all in one place, anytime, anywhere.",
+    img: "/p4.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "/https://jays-977f4c9b68b3.herokuapp.com/",
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    title: "Your Ultimate Online Shopping Destination",
+    des: "Discover a seamless shopping experience with ShopEase. Browse through a vast collection of products, enjoy secure payments, and have your favorites delivered right to your doorstep. Shopping made easy, fast, and fun.",
+    img: "/ecom.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongodb.svg", "/fm.svg"],
+    link: "/https://jays-977f4c9b68b3.herokuapp.com/",
   },
 ];
 
@@ -144,7 +144,7 @@ export const companies = [
   {
     id: 1,
     name: "cloudinary",
-    img: "/cloud.svg",
+    img: "/re.svg",
     nameImg: "/cloudName.svg",
   },
   {
@@ -161,8 +161,8 @@ export const companies = [
   },
   {
     id: 4,
-    name: "stream",
-    img: "/s.svg",
+    name: "tail",
+    img: "/tail.svg",
     nameImg: "/streamName.svg",
   },
   {
@@ -171,34 +171,52 @@ export const companies = [
     img: "/dock.svg",
     nameImg: "/dockerName.svg",
   },
+  {
+    id: 6,
+    name: "TS.",
+    img: "/ts.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 7,
+    name: "MONGODB",
+    img: "/mongodb.svg",
+    nameImg: "/dockerName.svg",
+  },
+  {
+    id: 8,
+    name: "FM",
+    img: "/fm.svg",
+    nameImg: "/dockerName.svg",
+  },
 ];
 
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Web Engineer",
+    desc: "Assisted in the development of a web-based platform using Reactjs/Nextjs enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
+    title: "Mobile App Dev",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "UI/UX Design",
+    desc: "Transform ideas into visually stunning and user-friendly interfaces. With a keen eye for detail and a focus on usability.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Backend Developer",
+    desc: "Specialize in developing secure, efficient, and scalable backend architectures",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
@@ -208,13 +226,15 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    social: "https://github.com/raselrzl",
   },
-  {
+  /* {
     id: 2,
     img: "/twit.svg",
-  },
+  }, */
   {
     id: 3,
     img: "/link.svg",
+    social: "www.linkedin.com/in/rasel-miah-3a0091122",
   },
 ];

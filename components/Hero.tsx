@@ -43,9 +43,9 @@ const Hero = () => {
             web solutions that drive digital success.
           </p>
 
-          <a href="#about">
+          <a href="#procedure">
             <MagicButton
-              title="Unveil Our Creations"
+              title="Unveil Our Procedure"
               icon={<FaLocationArrow />}
               position="right"
             />
