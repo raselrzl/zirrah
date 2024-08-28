@@ -201,7 +201,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev",
+    title: "Mobile App Developer",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
