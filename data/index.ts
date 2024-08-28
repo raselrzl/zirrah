@@ -235,6 +235,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    social: "www.linkedin.com/in/rasel-miah-3a0091122",
+    social: "https://www.linkedin.com/in/rasel-miah-3a0091122/",
   },
 ];
