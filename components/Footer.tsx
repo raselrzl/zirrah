@@ -16,7 +16,7 @@ const Footer = () => {
           Reach out to us now and let&apos;s discuss how we can help you achieve
           your goals.
         </p>
-        <a href="mailto:raselz.se@gmail.com">
+        <a href="mailto:contact@zirrah.online">
           <MagicButton
             title="Let's get in touch"
             icon={<FaLocationArrow />}
