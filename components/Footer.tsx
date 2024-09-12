@@ -2,6 +2,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 import { socialMedia } from "@/data";
 import MagicButton from "./MagicButton";
+import { TbEyeShare } from "react-icons/tb";
 
 const Footer = () => {
   return (
@@ -24,8 +25,15 @@ const Footer = () => {
         </a>
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
-        <p className="md:text-base text-sm md:font-normal font-light">
-          Copyright © 2024 ZIRRAH
+        <p className="md:text-base flex gap-4 text-sm md:font-normal font-light">
+          Copyright © 2024 ZIRRAH{" "}
+          <a
+            href="https://cart.hostinger.com/pay/37fc992f-3d97-41d3-9516-28e4d3c8e48f?_ga=GA1.3.942352702.1711283207"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <TbEyeShare className="text-xl" />
+          </a>
         </p>
 
         <div className="flex items-center md:gap-3 gap-6">

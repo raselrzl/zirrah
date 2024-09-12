@@ -1,7 +1,7 @@
 export const navItems = [
   /* 
   { name: "Home", link: "/" }, */
-  { name: "About", link: "#about" },
+  { name: "About", link: "/" },
   { name: "Projects", link: "#projects" },
   { name: "Impressions", link: "#impressions" },
   { name: "Contact", link: "#contact" },
@@ -11,7 +11,7 @@ export const gridItems = [
   {
     id: 1,
     title:
-      "At ZARRAH, we prioritize client collaboration, fostering open and transparent communication to ensure your vision comes into fruition.",
+      "At zirrah, we prioritize client collaboration, fostering open and transparent communication to ensure your vision comes into fruition.",
     description: "",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     imgClassName: "w-full h-full",
@@ -101,7 +101,7 @@ export const projects = [
     id: 4,
     title: "Your Ultimate Online Shopping Destination",
     des: "Discover a seamless shopping experience with ShopEase. Browse through a vast collection of products, enjoy secure payments, and have your favorites delivered right to your doorstep. Shopping made easy, fast, and fun.",
-    img: "/ecom.png",
+    img: "/fashstore.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/mongodb.svg", "/fm.svg"],
     link: "/https://jays-977f4c9b68b3.herokuapp.com/",
   },
