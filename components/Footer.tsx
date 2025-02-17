@@ -6,7 +6,7 @@ import { TbEyeShare } from "react-icons/tb";
 
 const Footer = () => {
   return (
-    <footer className="w-full pb-10 mb-[100px] mb-5" id="contact">
+    <footer className="w-full pb-10 mb-[100px]" id="contact">
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
           Ready to elevate <span className="text-purple">your</span> digital
@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base flex gap-4 text-sm md:font-normal font-light">
-          Copyright © 2024 ZIRRAH{" "}
+          Copyright © 2017 ZIRRAH{" "}
           <a
             href="https://cart.hostinger.com/pay/37fc992f-3d97-41d3-9516-28e4d3c8e48f?_ga=GA1.3.942352702.1711283207"
             target="_blank"

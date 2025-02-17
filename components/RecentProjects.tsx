@@ -4,6 +4,7 @@ import { FaLocationArrow } from "react-icons/fa6";
 
 import { projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
+import Link from "next/link";
 
 const RecentProjects = () => {
   return (
@@ -63,10 +64,18 @@ const RecentProjects = () => {
                 </div>
 
                 <div className="flex justify-center items-center">
-                  <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check Live Site
-                  </p>
-                  <FaLocationArrow className="ms-3" color="#CBACF9" />
+                  <Link
+                    href={item.link}
+                    className="flex justify-center items-center"
+                    target="_blank"
+                    rel="noopener noreferrer" // This is important for security reasons when using _blank
+                  >
+                    <p className="flex lg:text-xl md:text-xs text-sm text-purple">
+                      Check Live Site
+                    </p>
+
+                    <FaLocationArrow className="ms-3" color="#CBACF9" />
+                  </Link>
                 </div>
               </div>
             </PinContainer>
